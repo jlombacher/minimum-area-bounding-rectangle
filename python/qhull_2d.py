@@ -25,7 +25,7 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
 # IN THE SOFTWARE.
 
-from __future__ import division
+
 from numpy import *
 
 link = lambda a,b: concatenate((a,b[1:]))
